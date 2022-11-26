@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noyan</h1>
-<h3 align="center">I am a final year student of Information Systems Engineering at Mugla Sitki Kocman University. I'm working to be an ios developer in the future </h3>
+<h3 align="center">I am a final year student of Information Systems Engineering at Mugla Sitki Kocman University. I want to be an iOS Developer so I'm learning Swift and developing projects with Swift </h3>
 
 - 📫 How to reach me : **cepikkurtnoyan@hotmail.com**
 
